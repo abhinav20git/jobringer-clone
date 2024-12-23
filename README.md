@@ -1,8 +1,8 @@
-<img width="941" alt="jobringer-pic1" src="https://github.com/user-attachments/assets/aec8ff93-2166-493d-836f-0f378f2ef578" /># Getting Started with Create React App
+<img width="941" alt="jobringer-pic1" src="https://github.com/user-attachments/assets/aec8ff93-2166-493d-836f-0f378f2ef578" />
 ![Uploa![jobringer-pic2](https://github.com/user-attachments/assets/1cfa92eb-2b06-461e-bfdd-52ba17ffc506)
 ![jobringer-pic2](https://github.com/user-attachments/assets/0556340d-1272-46ec-a109-9db134d63780)
 
-
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
