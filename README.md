@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<img width="941" alt="jobringer-pic1" src="https://github.com/user-attachments/assets/aec8ff93-2166-493d-836f-0f378f2ef578" /># Getting Started with Create React App
+![Uploa![jobringer-pic2](https://github.com/user-attachments/assets/1cfa92eb-2b06-461e-bfdd-52ba17ffc506)
+ding jobringer-pic1.png…]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
