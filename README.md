@@ -1,5 +1,4 @@
 <img width="941" alt="jobringer-pic1" src="https://github.com/user-attachments/assets/aec8ff93-2166-493d-836f-0f378f2ef578" />
-![Uploa![jobringer-pic2](https://github.com/user-attachments/assets/1cfa92eb-2b06-461e-bfdd-52ba17ffc506)
 
 ![jobringer-pic2](https://github.com/user-attachments/assets/2ad9e139-9a7f-4d07-b83c-279b2a684031)
 
